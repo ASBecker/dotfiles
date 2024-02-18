@@ -1,6 +1,6 @@
 # themes from https://github.com/alacritty/alacritty-theme
 
-import = ["/Users/mischa/.config/alacritty/themes/themes/gruvbox_dark.toml"]
+import = ["~/.config/alacritty/themes/themes/github_dark_high_contrast.toml"]
 
 [font]
 size = 25
@@ -9,8 +9,9 @@ size = 25
 family = "UbuntuMono Nerd Font"
 
 [window]
-decorations = "none"
+# decorations = "none"
 
 [window.padding]
 x = 7
 y = 0
+
