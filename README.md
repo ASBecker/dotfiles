@@ -6,6 +6,11 @@ The intention is to be able to run  a setup script after cloning the repo on a M
 
 # Setup Notes
 
+## Additional required things
+
+* Get catppuccin Alacritty colorscheme: `curl -LO --output-dir ~/.config/alacritty/themes https://github.com/catppuccin/alacritty/raw/main/catppuccin-mocha.toml`
+* Get [Ubuntu Mono Nerdfont](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.1.1/UbuntuMono.zip)
+
 ## Windows and WSL setup
 
 * Install WSL in powershell 
