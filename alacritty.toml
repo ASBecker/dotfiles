@@ -1,6 +1,6 @@
 # themes from https://github.com/alacritty/alacritty-theme
 
-import = ["~/.config/alacritty/themes/themes/github_dark_high_contrast.toml"]
+import = ["~/.config/alacritty/themes/catppuccin-mocha.toml"]
 
 [font]
 size = 25
