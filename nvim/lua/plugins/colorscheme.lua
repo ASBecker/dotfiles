@@ -1,12 +1,12 @@
 return {
-  { "catppuccin/nvim" },
+  { "lalitmee/cobalt2.nvim" },
   lazy = false,
-  name = "catppuccin",
+  name = "cobalt2",
 
   {
     "LazyVim/LazyVim",
     opts = {
-      colorscheme = "catppuccin",
+      colorscheme = "cobalt2",
     },
   },
 }

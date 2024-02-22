@@ -1,6 +1,6 @@
 # themes from https://github.com/alacritty/alacritty-theme
 
-import = ["~/.config/alacritty/themes/catppuccin-mocha.toml"]
+import = ["~/.config/alacritty/themes/themes/Cobalt2.toml"]
 
 [font]
 size = 25
