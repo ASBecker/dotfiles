@@ -9,7 +9,7 @@ size = 25
 family = "UbuntuMono Nerd Font"
 
 [window]
-# decorations = "none"
+decorations = "none"
 
 [window.padding]
 x = 7
